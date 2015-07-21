@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/kai/vagrant/puppetlabs-ubuntu-14.04-64-puppet'
+let g:netrw_dirhist_2='/Users/kai/oscar/seteam-vagrant-stack/config'
+let g:netrw_dirhist_3='/Users/kai/vagrant/seteam-vagrant-stack/config'
+let g:netrw_dirhist_4='/Users/kai/vagrant/puppetlabs-ubuntu-14.04-64-puppet/nginx_python_demo'
+let g:netrw_dirhist_5='/Users/kai/code/nginx_puppet_demo/manifests'
+let g:netrw_dirhist_6='/Users/kai/vagrant/seteam-vagrant-stack/config'
